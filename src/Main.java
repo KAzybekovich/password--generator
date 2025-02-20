@@ -16,7 +16,7 @@ public class Main {
 
 
         System.out.print("Include uppercase letters? (yes/no): ");
-        boolean useUppercase = scanner.next().equalsIgnoreCase("yes");уee
+        boolean useUppercase = scanner.next().equalsIgnoreCase("yes");
 
         System.out.print("Include numbers? (yes/no): ");
         boolean useNumbers = scanner.next().equalsIgnoreCase("yes");
